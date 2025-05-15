@@ -1,0 +1,186 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>橫向滑動圖片</title>
+  
+
+  <style>
+  body {
+    font-family: "Helvetica Neue", sans-serif;
+    background-color: #f2f2f2;
+    margin: 0;
+    padding: 20px;
+    color: #333;
+  }
+
+  h2 {
+    text-align: center;
+    margin-top: 40px;
+    font-size: 24px;
+    color: #444;
+  }
+
+  .search-container {
+    margin-bottom: 20px;
+    text-align: center;
+  }
+
+  input {
+    padding: 12px 16px;
+    width: 80%;
+    max-width: 500px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+    transition: box-shadow 0.3s ease;
+  }
+
+  input:focus {
+    outline: none;
+    box-shadow: 0 0 8px rgba(0, 123, 255, 0.3);
+    border-color: #80bdff;
+  }
+
+  .overflow-x-scroll {
+    display: flex;
+    overflow-x: auto;
+    padding: 15px;
+    gap: 12px;
+    border-radius: 10px;
+    background-color: #ffffff;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    scroll-snap-type: x mandatory;
+  }
+
+  .overflow-x-scroll img {
+    height: 300px;
+    flex-shrink: 0;
+    border-radius: 8px;
+    cursor: pointer;
+    scroll-snap-align: start;
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+  }
+
+  .overflow-x-scroll img:hover {
+    transform: scale(1.05);
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+  }
+
+  /* 浮動層樣式 */
+  .lightbox {
+    display: none;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.8);
+    justify-content: center;
+    align-items: center;
+    z-index: 9999;
+  }
+
+  .lightbox-content {
+    position: relative;
+    text-align: center;
+  }
+
+  .lightbox img {
+    max-width: 90%;
+    max-height: 80vh;
+    border-radius: 8px;
+    box-shadow: 0 4px 20px rgba(255, 255, 255, 0.2);
+  }
+
+  .lightbox p {
+    color: white;
+    font-size: 18px;
+    margin-top: 15px;
+  }
+
+  .lightbox .close {
+    position: absolute;
+    top: -10px;
+    right: -10px;
+    color: white;
+    background: rgba(0, 0, 0, 0.5);
+    padding: 4px 10px;
+    border-radius: 50%;
+    font-size: 24px;
+    cursor: pointer;
+  }
+
+  iframe {
+    display: block;
+    margin: 40px auto 0;
+    border: none;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
+    border-radius: 8px;
+  }
+</style>
+
+  </style>
+</head>
+<body>
+    <div class="search-container">
+        <input type="text" id="searchInput" placeholder="請輸入餐廳(描述?)..." />
+    </div>
+    <h2>餐廳展示~~~</h2>
+    <div class="overflow-x-scroll">
+      <img src="https://picsum.photos/id/1004/200/200"  data-description="中華滷味" onclick="updateMap('https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d455.1754055942674!2d120.67945505890015!3d24.122472833165666!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x34693d1d11dc46af%3A0xce4a3cbb9c1ac3b3!2z5Lit6I-v5ru35ZGz!5e0!3m2!1szh-TW!2stw!4v1747331026310!5m2!1szh-TW!2stw')">
+      <img src="https://picsum.photos/id/1004/200/200"  data-description="蔥抓餅" onclick="updateMap('https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d227.58769517723434!2d120.67924585193397!3d24.122477117134597!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x34693d1d117d4c61%3A0xbdb4ad54de44e656!2z5Y-w54Gj5ZGz6JSl5oqT6aSF77yG6aOv5ZyY!5e0!3m2!1szh-TW!2stw!4v1747331157394!5m2!1szh-TW!2stw')">
+      <img src="https://picsum.photos/id/1004/200/200"  data-description="阿義" onclick="updateMap('https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d321.8581596703193!2d120.67949374305492!3d24.12225667111915!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x34693db981734a75%3A0xdc33f1c155679490!2zMTk1NemYv-e-qSDoiIjlpKfljZfploDlupc!5e0!3m2!1szh-TW!2stw!4v1747331409096!5m2!1szh-TW!2stw')">
+      <img src="https://picsum.photos/id/1004/200/200"  data-description="咖哩渾蛋" onclick="updateMap('https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1820.6691299724841!2d120.6721275831367!3d24.12475616827743!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x34693da0a1bdb9bf%3A0xd03b59e0e41398a8!2z5ZKW5ZOp6a2C6JuLS2FsaWh1bmRhbi3oiIjlpKflupc!5e0!3m2!1szh-TW!2stw!4v1747331478114!5m2!1szh-TW!2stw')">
+      <img src="https://picsum.photos/id/1004/200/200"  data-description="玩麵pasta" onclick="updateMap('https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d541.2880545611403!2d120.67460759074918!3d24.124783655826096!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x34693d0303bd93bb%3A0xc37be9553083c19f!2z546p6bq1cGFzdGEg5a245bqc5bqX!5e0!3m2!1szh-TW!2stw!4v1747331513319!5m2!1szh-TW!2stw')">
+      <img src="https://picsum.photos/id/1004/200/200"  data-description="佼佼者" onclick="updateMap('https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d541.2861146980403!2d120.67469052300234!3d24.125242154103248!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x34693d0311c88ea3%3A0x4369cd88a296ab42!2z6aSD5L286ICF!5e0!3m2!1szh-TW!2stw!4v1747331565465!5m2!1szh-TW!2stw')">
+      <img src="https://picsum.photos/id/1004/200/200"  data-description="車輪餅" onclick="updateMap('https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d541.2837437166231!2d120.67471285091665!3d24.12580253865433!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x34691796c8fbf881%3A0x5c93ae76851ff657!2z5pel5Yid5Ym15oSP6LuK6Lyq6aSFLeiIiOWkp-W6lyAoIOWOn-eAi-mZveW6lyDvvIk!5e0!3m2!1szh-TW!2stw!4v1747331597536!5m2!1szh-TW!2stw')">
+    </div>
+
+        <!-- 浮動層 -->
+    <div id="lightbox" class="lightbox">
+      <div class="lightbox-content">
+        <img id="lightboxImage" src="" alt="圖片放大">
+        <p id="lightboxDescription"></p>
+        <!--<span class="close" onclick="closeLightbox()">×</span>-->
+      </div>
+    </div>
+    <br/>
+      <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d643.7156881931228!2d120.6801176399306!3d24.122382125432125!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x34693da66cb73681%3A0x3eee6e4e0c48dd40!2z56a-6IiNQnJ1bmNoJkJpc3Rybw!5e0!3m2!1szh-TW!2stw!4v1747330638209!5m2!1szh-TW!2stw" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+    <script>
+      //點擊圖片後更換地圖
+      function updateMap(url) {
+        const mapFrame = document.querySelector("iframe");
+        mapFrame.src = url;
+      }
+      // 點擊圖片後顯示浮動層
+      const images = document.querySelectorAll('.overflow-x-scroll img');
+      const lightbox = document.getElementById('lightbox');
+      const lightboxImage = document.getElementById('lightboxImage');
+      const lightboxDescription = document.getElementById('lightboxDescription');
+
+      images.forEach(image => {
+        image.addEventListener('click', () => {
+          //const img_description = ["第一段", "第二段", "第三段", "第四段"];
+          const src = image.src;
+          const description = image.getAttribute('data-description');
+          lightboxImage.src = src;
+          lightboxDescription.textContent = description//img_description[1];
+          lightbox.style.display = 'flex';  // 顯示浮動層
+        });
+      });
+      // 點擊浮動層背景區域關閉浮動層
+      lightbox.addEventListener('click', (e) => {
+        if (e.target === lightbox) {  // 點擊的是背景區域
+          closeLightbox();
+        }
+      });
+
+      // 關閉浮動層
+      function closeLightbox() {
+        lightbox.style.display = 'none';  // 隱藏浮動層
+      }
+    </script>
+</body>
+</html>
