@@ -5,12 +5,18 @@ import psycopg2
 from psycopg2.extras import execute_values
 from huggingface_hub import login
 from sentence_transformers import SentenceTransformer
+from dotenv import load_dotenv
+
+# 載入環境變數
+load_dotenv()
 
 # 創建數據目錄（如果不存在）
 os.makedirs('models', exist_ok=True)
 
-# 登入Hugging Face
-login(token="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")
+# 從環境變數獲取Hugging Face token並登入
+huggingface_token = os.getenv("HUGGINGFACE_TOKEN")
+print("登入Hugging Face...")
+login(token=huggingface_token)
 
 # 載入embedding模型 (使用多語言模型以支持中文)
 print("下載和載入Sentence Transformer模型...")
@@ -43,13 +49,13 @@ print(f"為{len(texts)}家餐廳生成嵌入向量...")
 embeddings = model.encode(texts, show_progress_bar=True)
 print("嵌入生成完成")
 
-# 連接PostgreSQL
+# 從環境變數獲取資料庫連接資訊
 print("連接到PostgreSQL資料庫...")
 conn = psycopg2.connect(
-    host=os.getenv("DB_HOST", "localhost"),
-    database=os.getenv("DB_NAME", "restaurant_rag"),
-    user=os.getenv("DB_USER", "postgres"),
-    password=os.getenv("DB_PASSWORD", "a00010002")
+    host=os.getenv("DB_HOST"),
+    database=os.getenv("DB_NAME"),
+    user=os.getenv("DB_USER"),
+    password=os.getenv("DB_PASSWORD")
 )
 cur = conn.cursor()
 
