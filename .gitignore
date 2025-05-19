@@ -1,0 +1,54 @@
+# 環境變數
+.env
+
+# 資料備份
+Restaurant-json.zip
+
+# 處理後的資料目錄跟下載的模型
+restaurant-rag-backend/processed_data/
+restaurant-rag-backend/models/
+
+# 通用Python忽略項目
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# 前端忽略項目
+restaurant-rag-frontend/.DS_Store
+restaurant-rag-frontend/node_modules
+restaurant-rag-frontend/dist
+
+# 前端本地環境文件
+restaurant-rag-frontend/.env.local
+restaurant-rag-frontend/.env.*.local
+
+# 前端日誌文件
+restaurant-rag-frontend/npm-debug.log*
+restaurant-rag-frontend/yarn-debug.log*
+restaurant-rag-frontend/yarn-error.log*
+restaurant-rag-frontend/pnpm-debug.log*
+
+# IDE相關檔案
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?

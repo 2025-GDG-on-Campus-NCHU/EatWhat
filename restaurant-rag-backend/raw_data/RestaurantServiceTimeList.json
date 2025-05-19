@@ -1,0 +1,3184 @@
+﻿{
+  "UpdateTime": "2025-05-15T14:36:26+08:00",
+  "UpdateInterval": 86400,
+  "Language": "Zh_tw",
+  "ProviderID": "A15010000H",
+  "RestaurantServiceTimes": [
+    {
+      "RestaurantID": "Restaurant_376480000A_000001",
+      "RestaurantName": "老胡麵館",
+      "ServiceTimes": [
+        {
+          "Name": "上午營運時間",
+          "Description": "",
+          "ServiceDays": [
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          "StartTime": "11:00:00",
+          "EndTime": "14:00:00",
+          "EffectiveDate": null,
+          "ExpireDate": null
+        },
+        {
+          "Name": "下午營運時間",
+          "Description": "",
+          "ServiceDays": [
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          "StartTime": "17:00:00",
+          "EndTime": "19:00:00",
+          "EffectiveDate": null,
+          "ExpireDate": null
+        },
+        {
+          "Name": "公休日",
+          "Description": "",
+          "ServiceDays": [
+            "Monday"
+          ],
+          "StartTime": "00:00:00",
+          "EndTime": "00:00:00",
+          "EffectiveDate": null,
+          "ExpireDate": null
+        }
+      ],
+      "UpdateTime": "2023-06-30T17:30:00"
+    },
+    {
+      "RestaurantID": "Restaurant_376480000A_000002",
+      "RestaurantName": "成都生活美食館",
+      "ServiceTimes": [
+        {
+          "Name": "上午營運時間",
+          "Description": "",
+          "ServiceDays": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          "StartTime": "11:00:00",
+          "EndTime": "14:00:00",
+          "EffectiveDate": null,
+          "ExpireDate": null
+        },
+        {
+          "Name": "下午營運時間",
+          "Description": "",
+          "ServiceDays": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          "StartTime": "17:00:00",
+          "EndTime": "21:00:00",
+          "EffectiveDate": null,
+          "ExpireDate": null
+        }
+      ],
+      "UpdateTime": "2023-06-30T17:30:00"
+    },
+    {
+      "RestaurantID": "Restaurant_376480000A_000003",
+      "RestaurantName": "望溪樓素食餐廳",
+      "ServiceTimes": [
+        {
+          "Name": "上午營運時間",
+          "Description": "",
+          "ServiceDays": [
+            "Monday",
+            "Tuesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          "StartTime": "11:00:00",
+          "EndTime": "14:00:00",
+          "EffectiveDate": null,
+          "ExpireDate": null
+        },
+        {
+          "Name": "下午營運時間",
+          "Description": "",
+          "ServiceDays": [
+            "Monday",
+            "Tuesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          "StartTime": "17:00:00",
+          "EndTime": "20:00:00",
+          "EffectiveDate": null,
+          "ExpireDate": null
+        },
+        {
+          "Name": "公休日",
+          "Description": "",
+          "ServiceDays": [
+            "Wednesday"
+          ],
+          "StartTime": "00:00:00",
+          "EndTime": "00:00:00",
+          "EffectiveDate": null,
+          "ExpireDate": null
+        }
+      ],
+      "UpdateTime": "2023-06-30T17:30:00"
+    },
+    {
+      "RestaurantID": "Restaurant_376480000A_000004",
+      "RestaurantName": "木茶房餐廳",
+      "ServiceTimes": [
+        {
+          "Name": "營運時間",
+          "Description": "",
+          "ServiceDays": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          "StartTime": "10:00:00",
+          "EndTime": "17:30:00",
+          "EffectiveDate": null,
+          "ExpireDate": null
+        }
+      ],
+      "UpdateTime": "2023-06-30T17:30:00"
+    },
+    {
+      "RestaurantID": "Restaurant_376480000A_000005",
+      "RestaurantName": "阿滿姨庄腳菜",
+      "ServiceTimes": [
+        {
+          "Name": "上午營運時間",
+          "Description": "",
+          "ServiceDays": [
+            "Monday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          "StartTime": "11:30:00",
+          "EndTime": "14:00:00",
+          "EffectiveDate": null,
+          "ExpireDate": null
+        },
+        {
+          "Name": "下午營運時間",
+          "Description": "",
+          "ServiceDays": [
+            "Monday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          "StartTime": "17:30:00",
+          "EndTime": "20:30:00",
+          "EffectiveDate": null,
+          "ExpireDate": null
+        },
+        {
+          "Name": "公休日",
+          "Description": "",
+          "ServiceDays": [
+            "Tuesday"
+          ],
+          "StartTime": "00:00:00",
+          "EndTime": "00:00:00",
+          "EffectiveDate": null,
+          "ExpireDate": null
+        }
+      ],
+      "UpdateTime": "2023-06-30T17:30:00"
+    },
+    {
+      "RestaurantID": "Restaurant_376480000A_000006",
+      "RestaurantName": "集集火車票餅",
+      "ServiceTimes": [
+        {
+          "Name": "永久停止",
+          "Description": "",
+          "ServiceDays": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          "StartTime": "00:00:00",
+          "EndTime": "00:00:00",
+          "EffectiveDate": null,
+          "ExpireDate": null
+        }
+      ],
+      "UpdateTime": "2023-06-30T17:30:00"
+    },
+    {
+      "RestaurantID": "Restaurant_376480000A_000007",
+      "RestaurantName": "橋頭邊肉圓",
+      "ServiceTimes": [
+        {
+          "Name": "營運時間",
+          "Description": "",
+          "ServiceDays": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          "StartTime": "10:30:00",
+          "EndTime": "21:30:00",
+          "EffectiveDate": null,
+          "ExpireDate": null
+        }
+      ],
+      "UpdateTime": "2023-06-30T17:30:00"
+    },
+    {
+      "RestaurantID": "Restaurant_376480000A_000008",
+      "RestaurantName": "青山食堂",
+      "ServiceTimes": [
+        {
+          "Name": "上午營運時間",
+          "Description": "",
+          "ServiceDays": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          "StartTime": "07:00:00",
+          "EndTime": "09:30:00",
+          "EffectiveDate": null,
+          "ExpireDate": null
+        },
+        {
+          "Name": "中午營運時間",
+          "Description": "",
+          "ServiceDays": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          "StartTime": "11:00:00",
+          "EndTime": "14:00:00",
+          "EffectiveDate": null,
+          "ExpireDate": null
+        },
+        {
+          "Name": "下午營運時間",
+          "Description": "",
+          "ServiceDays": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          "StartTime": "17:00:00",
+          "EndTime": "20:00:00",
+          "EffectiveDate": null,
+          "ExpireDate": null
+        }
+      ],
+      "UpdateTime": "2023-06-30T17:30:00"
+    },
+    {
+      "RestaurantID": "Restaurant_376480000A_000009",
+      "RestaurantName": "一億香蕉冰淇淋",
+      "ServiceTimes": [
+        {
+          "Name": "平日營運時間",
+          "Description": "",
+          "ServiceDays": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+          ],
+          "StartTime": "09:00:00",
+          "EndTime": "18:00:00",
+          "EffectiveDate": null,
+          "ExpireDate": null
+        },
+        {
+          "Name": "假日營運時間",
+          "Description": "",
+          "ServiceDays": [
+            "Saturday",
+            "Sunday"
+          ],
+          "StartTime": "08:30:00",
+          "EndTime": "19:00:00",
+          "EffectiveDate": null,
+          "ExpireDate": null
+        }
+      ],
+      "UpdateTime": "2023-06-30T17:30:00"
+    },
+    {
+      "RestaurantID": "Restaurant_376480000A_000010",
+      "RestaurantName": "經典生活飲食",
+      "ServiceTimes": [
+        {
+          "Name": "營運時間",
+          "Description": "",
+          "ServiceDays": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          "StartTime": "11:00:00",
+          "EndTime": "16:30:00",
+          "EffectiveDate": null,
+          "ExpireDate": null
+        },
+        {
+          "Name": "公休日",
+          "Description": "",
+          "ServiceDays": [
+            "Tuesday"
+          ],
+          "StartTime": "00:00:00",
+          "EndTime": "00:00:00",
+          "EffectiveDate": null,
+          "ExpireDate": null
+        }
+      ],
+      "UpdateTime": "2023-06-30T17:30:00"
+    },
+    {
+      "RestaurantID": "Restaurant_376480000A_000011",
+      "RestaurantName": "蜂蜜青草茶",
+      "ServiceTimes": [
+        {
+          "Name": "營運時間",
+          "Description": "",
+          "ServiceDays": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          "StartTime": "08:00:00",
+          "EndTime": "16:00:00",
+          "EffectiveDate": null,
+          "ExpireDate": null
+        }
+      ],
+      "UpdateTime": "2023-06-30T17:30:00"
+    },
+    {
+      "RestaurantID": "Restaurant_376480000A_000012",
+      "RestaurantName": "國姓鄉村風味民宿餐廳",
+      "ServiceTimes": [
+        {
+          "Name": "營運時間",
+          "Description": "",
+          "ServiceDays": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          "StartTime": "09:00:00",
+          "EndTime": "20:00:00",
+          "EffectiveDate": null,
+          "ExpireDate": null
+        }
+      ],
+      "UpdateTime": "2023-06-30T17:30:00"
+    },
+    {
+      "RestaurantID": "Restaurant_376480000A_000013",
+      "RestaurantName": "隨意食堂",
+      "ServiceTimes": [
+        {
+          "Name": "上午營運時間",
+          "Description": "",
+          "ServiceDays": [
+            "Monday",
+            "Tuesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          "StartTime": "11:30:00",
+          "EndTime": "14:00:00",
+          "EffectiveDate": null,
+          "ExpireDate": null
+        },
+        {
+          "Name": "下午營運時間",
+          "Description": "",
+          "ServiceDays": [
+            "Monday",
+            "Tuesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          "StartTime": "17:00:00",
+          "EndTime": "20:00:00",
+          "EffectiveDate": null,
+          "ExpireDate": null
+        },
+        {
+          "Name": "公休日",
+          "Description": "",
+          "ServiceDays": [
+            "Wednesday"
+          ],
+          "StartTime": "00:00:00",
+          "EndTime": "00:00:00",
+          "EffectiveDate": null,
+          "ExpireDate": null
+        }
+      ],
+      "UpdateTime": "2023-06-30T17:30:00"
+    },
+    {
+      "RestaurantID": "Restaurant_376480000A_000014",
+      "RestaurantName": "八張牛肉麵",
+      "ServiceTimes": [
+        {
+          "Name": "上午營運時間",
+          "Description": "",
+          "ServiceDays": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday"
+          ],
+          "StartTime": "10:30:00",
+          "EndTime": "14:30:00",
+          "EffectiveDate": null,
+          "ExpireDate": null
+        },
+        {
+          "Name": "下午營運時間",
+          "Description": "",
+          "ServiceDays": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday"
+          ],
+          "StartTime": "16:30:00",
+          "EndTime": "20:00:00",
+          "EffectiveDate": null,
+          "ExpireDate": null
+        },
+        {
+          "Name": "公休日",
+          "Description": "",
+          "ServiceDays": [
+            "Sunday"
+          ],
+          "StartTime": "00:00:00",
+          "EndTime": "00:00:00",
+          "EffectiveDate": null,
+          "ExpireDate": null
+        }
+      ],
+      "UpdateTime": "2023-06-30T17:30:00"
+    },
+    {
+      "RestaurantID": "Restaurant_376480000A_000015",
+      "RestaurantName": "鹿谷阿三全筍餐館",
+      "ServiceTimes": [
+        {
+          "Name": "營運時間",
+          "Description": "",
+          "ServiceDays": [
+            "Monday",
+            "Tuesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          "StartTime": "11:00:00",
+          "EndTime": "19:00:00",
+          "EffectiveDate": null,
+          "ExpireDate": null
+        },
+        {
+          "Name": "公休日",
+          "Description": "",
+          "ServiceDays": [
+            "Wednesday"
+          ],
+          "StartTime": "00:00:00",
+          "EndTime": "00:00:00",
+          "EffectiveDate": null,
+          "ExpireDate": null
+        }
+      ],
+      "UpdateTime": "2023-06-30T17:30:00"
+    },
+    {
+      "RestaurantID": "Restaurant_376480000A_000016",
+      "RestaurantName": "竹山煎餃",
+      "ServiceTimes": [
+        {
+          "Name": "營運時間",
+          "Description": "",
+          "ServiceDays": [
+            "Monday",
+            "Tuesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          "StartTime": "05:00:00",
+          "EndTime": "13:00:00",
+          "EffectiveDate": null,
+          "ExpireDate": null
+        },
+        {
+          "Name": "公休日",
+          "Description": "",
+          "ServiceDays": [
+            "Wednesday"
+          ],
+          "StartTime": "00:00:00",
+          "EndTime": "00:00:00",
+          "EffectiveDate": null,
+          "ExpireDate": null
+        }
+      ],
+      "UpdateTime": "2023-06-30T17:30:00"
+    },
+    {
+      "RestaurantID": "Restaurant_376480000A_000017",
+      "RestaurantName": "水里羊肉王餐廳",
+      "ServiceTimes": [
+        {
+          "Name": "上午營運時間",
+          "Description": "",
+          "ServiceDays": [
+            "Monday",
+            "Tuesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          "StartTime": "11:00:00",
+          "EndTime": "14:30:00",
+          "EffectiveDate": null,
+          "ExpireDate": null
+        },
+        {
+          "Name": "下午營運時間",
+          "Description": "",
+          "ServiceDays": [
+            "Monday",
+            "Tuesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          "StartTime": "16:30:00",
+          "EndTime": "19:30:00",
+          "EffectiveDate": null,
+          "ExpireDate": null
+        },
+        {
+          "Name": "公休日",
+          "Description": "",
+          "ServiceDays": [
+            "Wednesday"
+          ],
+          "StartTime": "00:00:00",
+          "EndTime": "00:00:00",
+          "EffectiveDate": null,
+          "ExpireDate": null
+        }
+      ],
+      "UpdateTime": "2023-06-30T17:30:00"
+    },
+    {
+      "RestaurantID": "Restaurant_376480000A_000018",
+      "RestaurantName": "台灣國姓咖啡館",
+      "ServiceTimes": [
+        {
+          "Name": "永久停止",
+          "Description": "",
+          "ServiceDays": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          "StartTime": "00:00:00",
+          "EndTime": "00:00:00",
+          "EffectiveDate": null,
+          "ExpireDate": null
+        }
+      ],
+      "UpdateTime": "2023-06-30T17:30:00"
+    },
+    {
+      "RestaurantID": "Restaurant_376480000A_000019",
+      "RestaurantName": "溪頭和雅谷餐廳",
+      "ServiceTimes": [
+        {
+          "Name": "平日營運時間",
+          "Description": "",
+          "ServiceDays": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          "StartTime": "11:00:00",
+          "EndTime": "19:00:00",
+          "EffectiveDate": null,
+          "ExpireDate": null
+        },
+        {
+          "Name": "假日營運時間",
+          "Description": "",
+          "ServiceDays": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          "StartTime": "11:00:00",
+          "EndTime": "20:00:00",
+          "EffectiveDate": null,
+          "ExpireDate": null
+        },
+        {
+          "Name": "公休日",
+          "Description": "",
+          "ServiceDays": [
+            "Thursday"
+          ],
+          "StartTime": "00:00:00",
+          "EndTime": "00:00:00",
+          "EffectiveDate": null,
+          "ExpireDate": null
+        }
+      ],
+      "UpdateTime": "2023-06-30T17:30:00"
+    },
+    {
+      "RestaurantID": "Restaurant_376480000A_000020",
+      "RestaurantName": "18度C巧克力工房",
+      "ServiceTimes": [
+        {
+          "Name": "營運時間",
+          "Description": "",
+          "ServiceDays": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          "StartTime": "10:00:00",
+          "EndTime": "20:30:00",
+          "EffectiveDate": null,
+          "ExpireDate": null
+        }
+      ],
+      "UpdateTime": "2023-06-30T17:30:00"
+    },
+    {
+      "RestaurantID": "Restaurant_376480000A_000021",
+      "RestaurantName": "小上海現炒",
+      "ServiceTimes": [
+        {
+          "Name": "營運時間",
+          "Description": "",
+          "ServiceDays": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          "StartTime": "10:00:00",
+          "EndTime": "21:00:00",
+          "EffectiveDate": null,
+          "ExpireDate": null
+        },
+        {
+          "Name": "公休日",
+          "Description": "",
+          "ServiceDays": [
+            "Thursday"
+          ],
+          "StartTime": "00:00:00",
+          "EndTime": "00:00:00",
+          "EffectiveDate": null,
+          "ExpireDate": null
+        }
+      ],
+      "UpdateTime": "2023-06-30T17:30:00"
+    },
+    {
+      "RestaurantID": "Restaurant_376480000A_000022",
+      "RestaurantName": "樂涼園藝餐廳",
+      "ServiceTimes": [
+        {
+          "Name": "營運時間",
+          "Description": "",
+          "ServiceDays": [
+            "Monday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          "StartTime": "11:00:00",
+          "EndTime": "19:30:00",
+          "EffectiveDate": null,
+          "ExpireDate": null
+        },
+        {
+          "Name": "公休日",
+          "Description": "",
+          "ServiceDays": [
+            "Tuesday",
+            "Wednesday"
+          ],
+          "StartTime": "00:00:00",
+          "EndTime": "00:00:00",
+          "EffectiveDate": null,
+          "ExpireDate": null
+        }
+      ],
+      "UpdateTime": "2023-06-30T17:30:00"
+    },
+    {
+      "RestaurantID": "Restaurant_376480000A_000023",
+      "RestaurantName": "王品桂花酸梅湯",
+      "ServiceTimes": [
+        {
+          "Name": "營運時間",
+          "Description": "",
+          "ServiceDays": [
+            "Monday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          "StartTime": "09:30:00",
+          "EndTime": "18:00:00",
+          "EffectiveDate": null,
+          "ExpireDate": null
+        },
+        {
+          "Name": "公休日",
+          "Description": "",
+          "ServiceDays": [
+            "Tuesday"
+          ],
+          "StartTime": "00:00:00",
+          "EndTime": "00:00:00",
+          "EffectiveDate": null,
+          "ExpireDate": null
+        }
+      ],
+      "UpdateTime": "2023-06-30T17:30:00"
+    },
+    {
+      "RestaurantID": "Restaurant_376480000A_000024",
+      "RestaurantName": "榕樹下扣仔嗲",
+      "ServiceTimes": [
+        {
+          "Name": "平日營運時間",
+          "Description": "",
+          "ServiceDays": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          "StartTime": "08:30:00",
+          "EndTime": "19:30:00",
+          "EffectiveDate": null,
+          "ExpireDate": null
+        },
+        {
+          "Name": "假日營運時間",
+          "Description": "",
+          "ServiceDays": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          "StartTime": "08:30:00",
+          "EndTime": "20:00:00",
+          "EffectiveDate": null,
+          "ExpireDate": null
+        }
+      ],
+      "UpdateTime": "2023-06-30T17:30:00"
+    },
+    {
+      "RestaurantID": "Restaurant_376480000A_000025",
+      "RestaurantName": "春水岸",
+      "ServiceTimes": [
+        {
+          "Name": "上午營運時間",
+          "Description": "",
+          "ServiceDays": [
+            "Monday",
+            "Tuesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          "StartTime": "11:00:00",
+          "EndTime": "14:30:00",
+          "EffectiveDate": null,
+          "ExpireDate": null
+        },
+        {
+          "Name": "下午營運時間",
+          "Description": "",
+          "ServiceDays": [
+            "Monday",
+            "Tuesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          "StartTime": "17:00:00",
+          "EndTime": "21:00:00",
+          "EffectiveDate": null,
+          "ExpireDate": null
+        },
+        {
+          "Name": "公休日",
+          "Description": "",
+          "ServiceDays": [
+            "Wednesday"
+          ],
+          "StartTime": "00:00:00",
+          "EndTime": "00:00:00",
+          "EffectiveDate": null,
+          "ExpireDate": null
+        }
+      ],
+      "UpdateTime": "2023-06-30T17:30:00"
+    },
+    {
+      "RestaurantID": "Restaurant_376480000A_000026",
+      "RestaurantName": "大漢茶語",
+      "ServiceTimes": [
+        {
+          "Name": "營運時間",
+          "Description": "",
+          "ServiceDays": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          "StartTime": "10:30:00",
+          "EndTime": "22:00:00",
+          "EffectiveDate": null,
+          "ExpireDate": null
+        },
+        {
+          "Name": "公休日",
+          "Description": "",
+          "ServiceDays": [
+            "Thursday"
+          ],
+          "StartTime": "00:00:00",
+          "EndTime": "00:00:00",
+          "EffectiveDate": null,
+          "ExpireDate": null
+        }
+      ],
+      "UpdateTime": "2023-06-30T17:30:00"
+    },
+    {
+      "RestaurantID": "Restaurant_376480000A_000027",
+      "RestaurantName": "雙冬好味土雞城",
+      "ServiceTimes": [
+        {
+          "Name": "上午營運時間",
+          "Description": "",
+          "ServiceDays": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          "StartTime": "11:00:00",
+          "EndTime": "14:00:00",
+          "EffectiveDate": null,
+          "ExpireDate": null
+        },
+        {
+          "Name": "下午營運時間",
+          "Description": "",
+          "ServiceDays": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          "StartTime": "16:30:00",
+          "EndTime": "20:00:00",
+          "EffectiveDate": null,
+          "ExpireDate": null
+        }
+      ],
+      "UpdateTime": "2023-06-30T17:30:00"
+    },
+    {
+      "RestaurantID": "Restaurant_376480000A_000028",
+      "RestaurantName": "花樣千禧海鮮婚宴會館",
+      "ServiceTimes": [
+        {
+          "Name": "上午營運時間",
+          "Description": "",
+          "ServiceDays": [
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          "StartTime": "10:30:00",
+          "EndTime": "14:00:00",
+          "EffectiveDate": null,
+          "ExpireDate": null
+        },
+        {
+          "Name": "下午營運時間",
+          "Description": "",
+          "ServiceDays": [
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          "StartTime": "17:00:00",
+          "EndTime": "21:00:00",
+          "EffectiveDate": null,
+          "ExpireDate": null
+        },
+        {
+          "Name": "特殊營業時間",
+          "Description": "",
+          "ServiceDays": [
+            "Monday"
+          ],
+          "StartTime": "09:00:00",
+          "EndTime": "21:00:00",
+          "EffectiveDate": null,
+          "ExpireDate": null
+        }
+      ],
+      "UpdateTime": "2023-06-30T17:30:00"
+    },
+    {
+      "RestaurantID": "Restaurant_376480000A_000029",
+      "RestaurantName": "人本自然七彩神仙魚餐廳",
+      "ServiceTimes": [
+        {
+          "Name": "上午營運時間",
+          "Description": "",
+          "ServiceDays": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          "StartTime": "11:00:00",
+          "EndTime": "15:00:00",
+          "EffectiveDate": null,
+          "ExpireDate": null
+        },
+        {
+          "Name": "下午營運時間",
+          "Description": "",
+          "ServiceDays": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          "StartTime": "17:00:00",
+          "EndTime": "22:00:00",
+          "EffectiveDate": null,
+          "ExpireDate": null
+        }
+      ],
+      "UpdateTime": "2023-06-30T17:30:00"
+    },
+    {
+      "RestaurantID": "Restaurant_376480000A_000030",
+      "RestaurantName": "鼎唐風麻辣鴛鴦火鍋",
+      "ServiceTimes": [
+        {
+          "Name": "上午營運時間",
+          "Description": "",
+          "ServiceDays": [
+            "Monday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday"
+          ],
+          "StartTime": "11:00:00",
+          "EndTime": "15:00:00",
+          "EffectiveDate": null,
+          "ExpireDate": null
+        },
+        {
+          "Name": "下午營運時間",
+          "Description": "",
+          "ServiceDays": [
+            "Monday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          "StartTime": "17:00:00",
+          "EndTime": "22:00:00",
+          "EffectiveDate": null,
+          "ExpireDate": null
+        },
+        {
+          "Name": "公休日",
+          "Description": "",
+          "ServiceDays": [
+            "Tuesday"
+          ],
+          "StartTime": "00:00:00",
+          "EndTime": "00:00:00",
+          "EffectiveDate": null,
+          "ExpireDate": null
+        },
+        {
+          "Name": "特殊營業時間",
+          "Description": "",
+          "ServiceDays": [
+            "Sunday"
+          ],
+          "StartTime": "11:00:00",
+          "EndTime": "23:00:00",
+          "EffectiveDate": null,
+          "ExpireDate": null
+        }
+      ],
+      "UpdateTime": "2023-06-30T17:30:00"
+    },
+    {
+      "RestaurantID": "Restaurant_376480000A_000031",
+      "RestaurantName": "鍋神日式涮涮鍋（草屯店）",
+      "ServiceTimes": [
+        {
+          "Name": "平日營運時間",
+          "Description": "",
+          "ServiceDays": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          "StartTime": "11:00:00",
+          "EndTime": "15:00:00",
+          "EffectiveDate": null,
+          "ExpireDate": null
+        },
+        {
+          "Name": "假日營運時間",
+          "Description": "",
+          "ServiceDays": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          "StartTime": "17:00:00",
+          "EndTime": "22:00:00",
+          "EffectiveDate": null,
+          "ExpireDate": null
+        },
+        {
+          "Name": "公休日",
+          "Description": "",
+          "ServiceDays": [
+            "Thursday"
+          ],
+          "StartTime": "00:00:00",
+          "EndTime": "00:00:00",
+          "EffectiveDate": null,
+          "ExpireDate": null
+        }
+      ],
+      "UpdateTime": "2023-06-30T17:30:00"
+    },
+    {
+      "RestaurantID": "Restaurant_376480000A_000032",
+      "RestaurantName": "花珍饌婚宴景觀餐廳",
+      "ServiceTimes": [
+        {
+          "Name": "上午營運時間",
+          "Description": "",
+          "ServiceDays": [
+            "Monday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          "StartTime": "11:00:00",
+          "EndTime": "14:00:00",
+          "EffectiveDate": null,
+          "ExpireDate": null
+        },
+        {
+          "Name": "下午營運時間",
+          "Description": "",
+          "ServiceDays": [
+            "Monday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          "StartTime": "17:00:00",
+          "EndTime": "20:00:00",
+          "EffectiveDate": null,
+          "ExpireDate": null
+        },
+        {
+          "Name": "公休日",
+          "Description": "",
+          "ServiceDays": [
+            "Tuesday"
+          ],
+          "StartTime": "00:00:00",
+          "EndTime": "00:00:00",
+          "EffectiveDate": null,
+          "ExpireDate": null
+        }
+      ],
+      "UpdateTime": "2023-06-30T17:30:00"
+    },
+    {
+      "RestaurantID": "Restaurant_376480000A_000033",
+      "RestaurantName": "鮮友火鍋草屯店",
+      "ServiceTimes": [
+        {
+          "Name": "平日營運時間",
+          "Description": "",
+          "ServiceDays": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          "StartTime": "11:00:00",
+          "EndTime": "22:00:00",
+          "EffectiveDate": null,
+          "ExpireDate": null
+        },
+        {
+          "Name": "假日營運時間",
+          "Description": "",
+          "ServiceDays": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          "StartTime": "10:30:00",
+          "EndTime": "22:00:00",
+          "EffectiveDate": null,
+          "ExpireDate": null
+        }
+      ],
+      "UpdateTime": "2023-06-30T17:30:00"
+    },
+    {
+      "RestaurantID": "Restaurant_376480000A_000034",
+      "RestaurantName": "肉圓李百年老店",
+      "ServiceTimes": [
+        {
+          "Name": "營運時間",
+          "Description": "",
+          "ServiceDays": [
+            "Monday",
+            "Tuesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          "StartTime": "09:30:00",
+          "EndTime": "18:30:00",
+          "EffectiveDate": null,
+          "ExpireDate": null
+        },
+        {
+          "Name": "公休日",
+          "Description": "",
+          "ServiceDays": [
+            "Wednesday"
+          ],
+          "StartTime": "00:00:00",
+          "EndTime": "00:00:00",
+          "EffectiveDate": null,
+          "ExpireDate": null
+        }
+      ],
+      "UpdateTime": "2023-06-30T17:30:00"
+    },
+    {
+      "RestaurantID": "Restaurant_376480000A_000035",
+      "RestaurantName": "萬壽肉圓",
+      "ServiceTimes": [
+        {
+          "Name": "營運時間",
+          "Description": "",
+          "ServiceDays": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          "StartTime": "10:00:00",
+          "EndTime": "20:00:00",
+          "EffectiveDate": null,
+          "ExpireDate": null
+        }
+      ],
+      "UpdateTime": "2023-06-30T17:30:00"
+    },
+    {
+      "RestaurantID": "Restaurant_376480000A_000036",
+      "RestaurantName": "正典牛乳大王",
+      "ServiceTimes": [
+        {
+          "Name": "營運時間",
+          "Description": "",
+          "ServiceDays": [
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          "StartTime": "10:00:00",
+          "EndTime": "17:30:00",
+          "EffectiveDate": null,
+          "ExpireDate": null
+        },
+        {
+          "Name": "公休日",
+          "Description": "",
+          "ServiceDays": [
+            "Monday"
+          ],
+          "StartTime": "00:00:00",
+          "EndTime": "00:00:00",
+          "EffectiveDate": null,
+          "ExpireDate": null
+        }
+      ],
+      "UpdateTime": "2023-06-30T17:30:00"
+    },
+    {
+      "RestaurantID": "Restaurant_376480000A_000037",
+      "RestaurantName": "世華廚藝會館",
+      "ServiceTimes": [
+        {
+          "Name": "永久停止",
+          "Description": "",
+          "ServiceDays": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          "StartTime": "00:00:00",
+          "EndTime": "00:00:00",
+          "EffectiveDate": null,
+          "ExpireDate": null
+        }
+      ],
+      "UpdateTime": "2023-06-30T17:30:00"
+    },
+    {
+      "RestaurantID": "Restaurant_376480000A_000038",
+      "RestaurantName": "肉燥福",
+      "ServiceTimes": [
+        {
+          "Name": "營運時間",
+          "Description": "",
+          "ServiceDays": [
+            "Monday",
+            "Tuesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          "StartTime": "10:00:00",
+          "EndTime": "20:00:00",
+          "EffectiveDate": null,
+          "ExpireDate": null
+        },
+        {
+          "Name": "公休日",
+          "Description": "",
+          "ServiceDays": [
+            "Wednesday"
+          ],
+          "StartTime": "00:00:00",
+          "EndTime": "00:00:00",
+          "EffectiveDate": null,
+          "ExpireDate": null
+        }
+      ],
+      "UpdateTime": "2023-06-30T17:30:00"
+    },
+    {
+      "RestaurantID": "Restaurant_376480000A_000039",
+      "RestaurantName": "久味麻糬本舖",
+      "ServiceTimes": [
+        {
+          "Name": "營運時間",
+          "Description": "",
+          "ServiceDays": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          "StartTime": "05:30:00",
+          "EndTime": "21:00:00",
+          "EffectiveDate": null,
+          "ExpireDate": null
+        }
+      ],
+      "UpdateTime": "2023-06-30T17:30:00"
+    },
+    {
+      "RestaurantID": "Restaurant_376480000A_000040",
+      "RestaurantName": "異人館",
+      "ServiceTimes": [
+        {
+          "Name": "永久停止",
+          "Description": "",
+          "ServiceDays": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          "StartTime": "00:00:00",
+          "EndTime": "00:00:00",
+          "EffectiveDate": null,
+          "ExpireDate": null
+        }
+      ],
+      "UpdateTime": "2023-06-30T17:30:00"
+    },
+    {
+      "RestaurantID": "Restaurant_376480000A_000041",
+      "RestaurantName": "石頭日式炭火燒肉",
+      "ServiceTimes": [
+        {
+          "Name": "上午營運時間",
+          "Description": "",
+          "ServiceDays": [
+            "Monday",
+            "Tuesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          "StartTime": "11:00:00",
+          "EndTime": "14:30:00",
+          "EffectiveDate": null,
+          "ExpireDate": null
+        },
+        {
+          "Name": "下午營運時間",
+          "Description": "",
+          "ServiceDays": [
+            "Monday",
+            "Tuesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          "StartTime": "17:00:00",
+          "EndTime": "20:30:00",
+          "EffectiveDate": null,
+          "ExpireDate": null
+        },
+        {
+          "Name": "公休日",
+          "Description": "",
+          "ServiceDays": [
+            "Wednesday"
+          ],
+          "StartTime": "00:00:00",
+          "EndTime": "00:00:00",
+          "EffectiveDate": null,
+          "ExpireDate": null
+        }
+      ],
+      "UpdateTime": "2023-06-30T17:30:00"
+    },
+    {
+      "RestaurantID": "Restaurant_376480000A_000042",
+      "RestaurantName": "梅園餡餅粥",
+      "ServiceTimes": [
+        {
+          "Name": "上午營運時間",
+          "Description": "",
+          "ServiceDays": [
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          "StartTime": "11:00:00",
+          "EndTime": "14:00:00",
+          "EffectiveDate": null,
+          "ExpireDate": null
+        },
+        {
+          "Name": "下午營運時間",
+          "Description": "",
+          "ServiceDays": [
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          "StartTime": "17:00:00",
+          "EndTime": "19:45:00",
+          "EffectiveDate": null,
+          "ExpireDate": null
+        },
+        {
+          "Name": "公休日",
+          "Description": "",
+          "ServiceDays": [
+            "Monday"
+          ],
+          "StartTime": "00:00:00",
+          "EndTime": "00:00:00",
+          "EffectiveDate": null,
+          "ExpireDate": null
+        }
+      ],
+      "UpdateTime": "2023-06-30T17:30:00"
+    },
+    {
+      "RestaurantID": "Restaurant_376480000A_000043",
+      "RestaurantName": "日月酒莊 – 小米酒博物館",
+      "ServiceTimes": [
+        {
+          "Name": "營運時間",
+          "Description": "",
+          "ServiceDays": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          "StartTime": "08:30:00",
+          "EndTime": "20:30:00",
+          "EffectiveDate": null,
+          "ExpireDate": null
+        }
+      ],
+      "UpdateTime": "2023-06-30T17:30:00"
+    },
+    {
+      "RestaurantID": "Restaurant_376480000A_000044",
+      "RestaurantName": "川前屋",
+      "ServiceTimes": [
+        {
+          "Name": "上午營運時間",
+          "Description": "",
+          "ServiceDays": [
+            "Monday",
+            "Tuesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          "StartTime": "11:00:00",
+          "EndTime": "14:00:00",
+          "EffectiveDate": null,
+          "ExpireDate": null
+        },
+        {
+          "Name": "下午營運時間",
+          "Description": "",
+          "ServiceDays": [
+            "Monday",
+            "Tuesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          "StartTime": "17:00:00",
+          "EndTime": "21:00:00",
+          "EffectiveDate": null,
+          "ExpireDate": null
+        },
+        {
+          "Name": "公休日",
+          "Description": "",
+          "ServiceDays": [
+            "Wednesday"
+          ],
+          "StartTime": "00:00:00",
+          "EndTime": "00:00:00",
+          "EffectiveDate": null,
+          "ExpireDate": null
+        }
+      ],
+      "UpdateTime": "2023-06-30T17:30:00"
+    },
+    {
+      "RestaurantID": "Restaurant_376480000A_000045",
+      "RestaurantName": "微熱山丘",
+      "ServiceTimes": [
+        {
+          "Name": "營運時間",
+          "Description": "",
+          "ServiceDays": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          "StartTime": "10:00:00",
+          "EndTime": "18:00:00",
+          "EffectiveDate": null,
+          "ExpireDate": null
+        }
+      ],
+      "UpdateTime": "2023-06-30T17:30:00"
+    },
+    {
+      "RestaurantID": "Restaurant_376480000A_000046",
+      "RestaurantName": "森田創意料理",
+      "ServiceTimes": [
+        {
+          "Name": "上午營運時間",
+          "Description": "",
+          "ServiceDays": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          "StartTime": "11:00:00",
+          "EndTime": "14:00:00",
+          "EffectiveDate": null,
+          "ExpireDate": null
+        },
+        {
+          "Name": "下午營運時間",
+          "Description": "",
+          "ServiceDays": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          "StartTime": "17:00:00",
+          "EndTime": "21:00:00",
+          "EffectiveDate": null,
+          "ExpireDate": null
+        }
+      ],
+      "UpdateTime": "2023-06-30T17:30:00"
+    },
+    {
+      "RestaurantID": "Restaurant_376480000A_000047",
+      "RestaurantName": "溪頭溪谷餐廳",
+      "ServiceTimes": [
+        {
+          "Name": "營運時間",
+          "Description": "",
+          "ServiceDays": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          "StartTime": "10:30:00",
+          "EndTime": "19:00:00",
+          "EffectiveDate": null,
+          "ExpireDate": null
+        }
+      ],
+      "UpdateTime": "2023-06-30T17:30:00"
+    },
+    {
+      "RestaurantID": "Restaurant_376480000A_000048",
+      "RestaurantName": "小春日本懷石料理",
+      "ServiceTimes": [
+        {
+          "Name": "上午營運時間",
+          "Description": "",
+          "ServiceDays": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          "StartTime": "11:00:00",
+          "EndTime": "14:30:00",
+          "EffectiveDate": null,
+          "ExpireDate": null
+        },
+        {
+          "Name": "下午營運時間",
+          "Description": "",
+          "ServiceDays": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          "StartTime": "17:00:00",
+          "EndTime": "21:30:00",
+          "EffectiveDate": null,
+          "ExpireDate": null
+        }
+      ],
+      "UpdateTime": "2023-06-30T17:30:00"
+    },
+    {
+      "RestaurantID": "Restaurant_376480000A_000049",
+      "RestaurantName": "鹿谷觀光農園民宿餐廳",
+      "ServiceTimes": [
+        {
+          "Name": "營運時間",
+          "Description": "",
+          "ServiceDays": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          "StartTime": "10:00:00",
+          "EndTime": "19:00:00",
+          "EffectiveDate": null,
+          "ExpireDate": null
+        }
+      ],
+      "UpdateTime": "2023-06-30T17:30:00"
+    },
+    {
+      "RestaurantID": "Restaurant_376480000A_000050",
+      "RestaurantName": "溪頭福林餐廳",
+      "ServiceTimes": [
+        {
+          "Name": "上午營運時間",
+          "Description": "",
+          "ServiceDays": [
+            "Monday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          "StartTime": "11:00:00",
+          "EndTime": "14:30:00",
+          "EffectiveDate": null,
+          "ExpireDate": null
+        },
+        {
+          "Name": "下午營運時間",
+          "Description": "",
+          "ServiceDays": [
+            "Monday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          "StartTime": "16:00:00",
+          "EndTime": "20:00:00",
+          "EffectiveDate": null,
+          "ExpireDate": null
+        },
+        {
+          "Name": "公休日",
+          "Description": "",
+          "ServiceDays": [
+            "Tuesday"
+          ],
+          "StartTime": "00:00:00",
+          "EndTime": "00:00:00",
+          "EffectiveDate": null,
+          "ExpireDate": null
+        }
+      ],
+      "UpdateTime": "2023-06-30T17:30:00"
+    },
+    {
+      "RestaurantID": "Restaurant_376480000A_000051",
+      "RestaurantName": "銀杏景觀餐廳",
+      "ServiceTimes": [
+        {
+          "Name": "平日營運時間",
+          "Description": "",
+          "ServiceDays": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+          ],
+          "StartTime": "10:00:00",
+          "EndTime": "15:00:00",
+          "EffectiveDate": null,
+          "ExpireDate": null
+        },
+        {
+          "Name": "假日營運時間",
+          "Description": "",
+          "ServiceDays": [
+            "Saturday",
+            "Sunday"
+          ],
+          "StartTime": "08:30:00",
+          "EndTime": "15:00:00",
+          "EffectiveDate": null,
+          "ExpireDate": null
+        },
+        {
+          "Name": "公休日",
+          "Description": "",
+          "ServiceDays": [
+            "Thursday"
+          ],
+          "StartTime": "00:00:00",
+          "EndTime": "00:00:00",
+          "EffectiveDate": null,
+          "ExpireDate": null
+        }
+      ],
+      "UpdateTime": "2023-06-30T17:30:00"
+    },
+    {
+      "RestaurantID": "Restaurant_376480000A_000052",
+      "RestaurantName": "世傳魷魚羹",
+      "ServiceTimes": [
+        {
+          "Name": "平日營運時間",
+          "Description": "",
+          "ServiceDays": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+          ],
+          "StartTime": "11:00:00",
+          "EndTime": "19:30:00",
+          "EffectiveDate": null,
+          "ExpireDate": null
+        },
+        {
+          "Name": "假日營運時間",
+          "Description": "",
+          "ServiceDays": [
+            "Saturday",
+            "Sunday"
+          ],
+          "StartTime": "11:00:00",
+          "EndTime": "20:00:00",
+          "EffectiveDate": null,
+          "ExpireDate": null
+        }
+      ],
+      "UpdateTime": "2023-06-30T17:30:00"
+    },
+    {
+      "RestaurantID": "Restaurant_376480000A_000053",
+      "RestaurantName": "至膳園餐廳",
+      "ServiceTimes": [
+        {
+          "Name": "營運時間",
+          "Description": "",
+          "ServiceDays": [
+            "Monday",
+            "Tuesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          "StartTime": "11:00:00",
+          "EndTime": "19:30:00",
+          "EffectiveDate": null,
+          "ExpireDate": null
+        },
+        {
+          "Name": "公休日",
+          "Description": "",
+          "ServiceDays": [
+            "Wednesday"
+          ],
+          "StartTime": "00:00:00",
+          "EndTime": "00:00:00",
+          "EffectiveDate": null,
+          "ExpireDate": null
+        }
+      ],
+      "UpdateTime": "2023-06-30T17:30:00"
+    },
+    {
+      "RestaurantID": "Restaurant_376480000A_000054",
+      "RestaurantName": "富隆莊餐廳",
+      "ServiceTimes": [
+        {
+          "Name": "營運時間",
+          "Description": "",
+          "ServiceDays": [
+            "Monday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          "StartTime": "11:00:00",
+          "EndTime": "19:00:00",
+          "EffectiveDate": null,
+          "ExpireDate": null
+        },
+        {
+          "Name": "公休日",
+          "Description": "",
+          "ServiceDays": [
+            "Tuesday"
+          ],
+          "StartTime": "00:00:00",
+          "EndTime": "00:00:00",
+          "EffectiveDate": null,
+          "ExpireDate": null
+        }
+      ],
+      "UpdateTime": "2023-06-30T17:30:00"
+    },
+    {
+      "RestaurantID": "Restaurant_376480000A_000055",
+      "RestaurantName": "金上園餐廳",
+      "ServiceTimes": [
+        {
+          "Name": "上午營運時間",
+          "Description": "",
+          "ServiceDays": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          "StartTime": "10:00:00",
+          "EndTime": "14:00:00",
+          "EffectiveDate": null,
+          "ExpireDate": null
+        },
+        {
+          "Name": "下午營運時間",
+          "Description": "",
+          "ServiceDays": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          "StartTime": "17:00:00",
+          "EndTime": "20:00:00",
+          "EffectiveDate": null,
+          "ExpireDate": null
+        }
+      ],
+      "UpdateTime": "2023-06-30T17:30:00"
+    },
+    {
+      "RestaurantID": "Restaurant_376480000A_000056",
+      "RestaurantName": "伯利恆茶藝餐廳",
+      "ServiceTimes": [
+        {
+          "Name": "營運時間",
+          "Description": "",
+          "ServiceDays": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          "StartTime": "09:30:00",
+          "EndTime": "18:30:00",
+          "EffectiveDate": null,
+          "ExpireDate": null
+        }
+      ],
+      "UpdateTime": "2023-06-30T17:30:00"
+    },
+    {
+      "RestaurantID": "Restaurant_376480000A_000057",
+      "RestaurantName": "可妮小屋",
+      "ServiceTimes": [
+        {
+          "Name": "營運時間",
+          "Description": "",
+          "ServiceDays": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          "StartTime": "09:00:00",
+          "EndTime": "17:00:00",
+          "EffectiveDate": null,
+          "ExpireDate": null
+        }
+      ],
+      "UpdateTime": "2023-06-30T17:30:00"
+    },
+    {
+      "RestaurantID": "Restaurant_376480000A_000058",
+      "RestaurantName": "台一楓樺卉館-南芳花園宴會廳",
+      "ServiceTimes": [
+        {
+          "Name": "上午營運時間",
+          "Description": "",
+          "ServiceDays": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          "StartTime": "07:00:00",
+          "EndTime": "09:00:00",
+          "EffectiveDate": null,
+          "ExpireDate": null
+        },
+        {
+          "Name": "中午營運時間",
+          "Description": "",
+          "ServiceDays": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          "StartTime": "11:00:00",
+          "EndTime": "14:00:00",
+          "EffectiveDate": null,
+          "ExpireDate": null
+        },
+        {
+          "Name": "下午營運時間",
+          "Description": "",
+          "ServiceDays": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          "StartTime": "17:30:00",
+          "EndTime": "20:00:00",
+          "EffectiveDate": null,
+          "ExpireDate": null
+        }
+      ],
+      "UpdateTime": "2023-06-30T17:30:00"
+    },
+    {
+      "RestaurantID": "Restaurant_376480000A_000059",
+      "RestaurantName": "竹棧餐廳",
+      "ServiceTimes": [
+        {
+          "Name": "營運時間",
+          "Description": "",
+          "ServiceDays": [
+            "Monday",
+            "Tuesday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          "StartTime": "11:00:00",
+          "EndTime": "19:00:00",
+          "EffectiveDate": null,
+          "ExpireDate": null
+        },
+        {
+          "Name": "公休日",
+          "Description": "",
+          "ServiceDays": [
+            "Wednesday",
+            "Thursday"
+          ],
+          "StartTime": "00:00:00",
+          "EndTime": "00:00:00",
+          "EffectiveDate": null,
+          "ExpireDate": null
+        }
+      ],
+      "UpdateTime": "2023-06-30T17:30:00"
+    },
+    {
+      "RestaurantID": "Restaurant_376480000A_000060",
+      "RestaurantName": "竹山捲仔粿",
+      "ServiceTimes": [
+        {
+          "Name": "營運時間",
+          "Description": "",
+          "ServiceDays": [
+            "Monday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          "StartTime": "07:50:00",
+          "EndTime": "18:00:00",
+          "EffectiveDate": null,
+          "ExpireDate": null
+        },
+        {
+          "Name": "特殊營業時間",
+          "Description": "",
+          "ServiceDays": [
+            "Tuesday"
+          ],
+          "StartTime": "06:50:00",
+          "EndTime": "18:00:00",
+          "EffectiveDate": null,
+          "ExpireDate": null
+        }
+      ],
+      "UpdateTime": "2023-06-30T17:30:00"
+    },
+    {
+      "RestaurantID": "Restaurant_376480000A_000061",
+      "RestaurantName": "麒麟潭湖濱簡餐",
+      "ServiceTimes": [
+        {
+          "Name": "營運時間",
+          "Description": "",
+          "ServiceDays": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          "StartTime": "09:00:00",
+          "EndTime": "20:00:00",
+          "EffectiveDate": null,
+          "ExpireDate": null
+        }
+      ],
+      "UpdateTime": "2023-06-30T17:30:00"
+    },
+    {
+      "RestaurantID": "Restaurant_376480000A_000062",
+      "RestaurantName": "金都餐廳",
+      "ServiceTimes": [
+        {
+          "Name": "上午營運時間",
+          "Description": "",
+          "ServiceDays": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          "StartTime": "11:00:00",
+          "EndTime": "14:30:00",
+          "EffectiveDate": null,
+          "ExpireDate": null
+        },
+        {
+          "Name": "下午營運時間",
+          "Description": "",
+          "ServiceDays": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          "StartTime": "17:00:00",
+          "EndTime": "21:00:00",
+          "EffectiveDate": null,
+          "ExpireDate": null
+        }
+      ],
+      "UpdateTime": "2023-06-30T17:30:00"
+    },
+    {
+      "RestaurantID": "Restaurant_376480000A_000063",
+      "RestaurantName": "大埔鐵板燒",
+      "ServiceTimes": [
+        {
+          "Name": "平日上午營運時間",
+          "Description": "",
+          "ServiceDays": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+          ],
+          "StartTime": "11:00:00",
+          "EndTime": "14:00:00",
+          "EffectiveDate": null,
+          "ExpireDate": null
+        },
+        {
+          "Name": "平日下午營運時間",
+          "Description": "",
+          "ServiceDays": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+          ],
+          "StartTime": "17:00:00",
+          "EndTime": "01:00:00",
+          "EffectiveDate": null,
+          "ExpireDate": null
+        },
+        {
+          "Name": "假日營運時間",
+          "Description": "",
+          "ServiceDays": [
+            "Saturday",
+            "Sunday"
+          ],
+          "StartTime": "11:00:00",
+          "EndTime": "01:00:00",
+          "EffectiveDate": null,
+          "ExpireDate": null
+        }
+      ],
+      "UpdateTime": "2023-06-30T17:30:00"
+    },
+    {
+      "RestaurantID": "Restaurant_376480000A_000064",
+      "RestaurantName": "鷺鷥的家",
+      "ServiceTimes": [
+        {
+          "Name": "營運時間",
+          "Description": "",
+          "ServiceDays": [
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          "StartTime": "12:00:00",
+          "EndTime": "17:00:00",
+          "EffectiveDate": null,
+          "ExpireDate": null
+        },
+        {
+          "Name": "公休日",
+          "Description": "",
+          "ServiceDays": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday"
+          ],
+          "StartTime": "00:00:00",
+          "EndTime": "00:00:00",
+          "EffectiveDate": null,
+          "ExpireDate": null
+        }
+      ],
+      "UpdateTime": "2023-06-30T17:30:00"
+    },
+    {
+      "RestaurantID": "Restaurant_376480000A_000065",
+      "RestaurantName": "溪頭青年活動中心餐廳",
+      "ServiceTimes": [
+        {
+          "Name": "營運時間",
+          "Description": "",
+          "ServiceDays": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          "StartTime": "09:00:00",
+          "EndTime": "20:00:00",
+          "EffectiveDate": null,
+          "ExpireDate": null
+        }
+      ],
+      "UpdateTime": "2023-06-30T17:30:00"
+    },
+    {
+      "RestaurantID": "Restaurant_376480000A_000066",
+      "RestaurantName": "永光堂大補蛋",
+      "ServiceTimes": [
+        {
+          "Name": "營運時間",
+          "Description": "",
+          "ServiceDays": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          "StartTime": "06:00:00",
+          "EndTime": "18:30:00",
+          "EffectiveDate": null,
+          "ExpireDate": null
+        }
+      ],
+      "UpdateTime": "2023-06-30T17:30:00"
+    },
+    {
+      "RestaurantID": "Restaurant_376480000A_000067",
+      "RestaurantName": "有田日本料理",
+      "ServiceTimes": [
+        {
+          "Name": "上午營運時間",
+          "Description": "",
+          "ServiceDays": [
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          "StartTime": "11:30:00",
+          "EndTime": "14:00:00",
+          "EffectiveDate": null,
+          "ExpireDate": null
+        },
+        {
+          "Name": "下午營運時間",
+          "Description": "",
+          "ServiceDays": [
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          "StartTime": "17:00:00",
+          "EndTime": "21:00:00",
+          "EffectiveDate": null,
+          "ExpireDate": null
+        },
+        {
+          "Name": "公休日",
+          "Description": "",
+          "ServiceDays": [
+            "Monday"
+          ],
+          "StartTime": "00:00:00",
+          "EndTime": "00:00:00",
+          "EffectiveDate": null,
+          "ExpireDate": null
+        }
+      ],
+      "UpdateTime": "2023-06-30T17:30:00"
+    },
+    {
+      "RestaurantID": "Restaurant_376480000A_000068",
+      "RestaurantName": "口福小吃部",
+      "ServiceTimes": [
+        {
+          "Name": "上午營運時間",
+          "Description": "",
+          "ServiceDays": [
+            "Monday",
+            "Tuesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          "StartTime": "10:30:00",
+          "EndTime": "14:00:00",
+          "EffectiveDate": null,
+          "ExpireDate": null
+        },
+        {
+          "Name": "下午營運時間",
+          "Description": "",
+          "ServiceDays": [
+            "Monday",
+            "Tuesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          "StartTime": "16:30:00",
+          "EndTime": "19:30:00",
+          "EffectiveDate": null,
+          "ExpireDate": null
+        },
+        {
+          "Name": "公休日",
+          "Description": "",
+          "ServiceDays": [
+            "Wednesday"
+          ],
+          "StartTime": "00:00:00",
+          "EndTime": "00:00:00",
+          "EffectiveDate": null,
+          "ExpireDate": null
+        }
+      ],
+      "UpdateTime": "2023-06-30T17:30:00"
+    },
+    {
+      "RestaurantID": "Restaurant_376480000A_000069",
+      "RestaurantName": "鹿鼎莊",
+      "ServiceTimes": [
+        {
+          "Name": "營運時間",
+          "Description": "",
+          "ServiceDays": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          "StartTime": "10:00:00",
+          "EndTime": "20:00:00",
+          "EffectiveDate": null,
+          "ExpireDate": null
+        }
+      ],
+      "UpdateTime": "2023-06-30T17:30:00"
+    },
+    {
+      "RestaurantID": "Restaurant_376480000A_000070",
+      "RestaurantName": "古早味碗粿",
+      "ServiceTimes": [
+        {
+          "Name": "營運時間",
+          "Description": "",
+          "ServiceDays": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          "StartTime": "06:00:00",
+          "EndTime": "13:00:00",
+          "EffectiveDate": null,
+          "ExpireDate": null
+        }
+      ],
+      "UpdateTime": "2023-06-30T17:30:00"
+    },
+    {
+      "RestaurantID": "Restaurant_376480000A_000071",
+      "RestaurantName": "孟宗山莊中餐廳",
+      "ServiceTimes": [
+        {
+          "Name": "上午營運時間",
+          "Description": "",
+          "ServiceDays": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          "StartTime": "11:30:00",
+          "EndTime": "14:00:00",
+          "EffectiveDate": null,
+          "ExpireDate": null
+        },
+        {
+          "Name": "下午營運時間",
+          "Description": "",
+          "ServiceDays": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          "StartTime": "17:30:00",
+          "EndTime": "20:00:00",
+          "EffectiveDate": null,
+          "ExpireDate": null
+        }
+      ],
+      "UpdateTime": "2023-06-30T17:30:00"
+    },
+    {
+      "RestaurantID": "Restaurant_376480000A_000072",
+      "RestaurantName": "竹山廟口蚵仔煎",
+      "ServiceTimes": [
+        {
+          "Name": "營運時間",
+          "Description": "",
+          "ServiceDays": [
+            "Monday",
+            "Tuesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          "StartTime": "05:00:00",
+          "EndTime": "13:00:00",
+          "EffectiveDate": null,
+          "ExpireDate": null
+        },
+        {
+          "Name": "公休日",
+          "Description": "",
+          "ServiceDays": [
+            "Wednesday"
+          ],
+          "StartTime": "00:00:00",
+          "EndTime": "00:00:00",
+          "EffectiveDate": null,
+          "ExpireDate": null
+        }
+      ],
+      "UpdateTime": "2023-06-30T17:30:00"
+    },
+    {
+      "RestaurantID": "Restaurant_376480000A_000073",
+      "RestaurantName": "福得美食廣場",
+      "ServiceTimes": [
+        {
+          "Name": "營運時間",
+          "Description": "",
+          "ServiceDays": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          "StartTime": "10:00:00",
+          "EndTime": "18:30:00",
+          "EffectiveDate": null,
+          "ExpireDate": null
+        }
+      ],
+      "UpdateTime": "2023-06-30T17:30:00"
+    },
+    {
+      "RestaurantID": "Restaurant_376480000A_000074",
+      "RestaurantName": "溪頭翠谷餐廳",
+      "ServiceTimes": [
+        {
+          "Name": "平日營運時間",
+          "Description": "",
+          "ServiceDays": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+          ],
+          "StartTime": "10:00:00",
+          "EndTime": "19:00:00",
+          "EffectiveDate": null,
+          "ExpireDate": null
+        },
+        {
+          "Name": "假日營運時間",
+          "Description": "",
+          "ServiceDays": [
+            "Saturday",
+            "Sunday"
+          ],
+          "StartTime": "10:00:00",
+          "EndTime": "20:00:00",
+          "EffectiveDate": null,
+          "ExpireDate": null
+        }
+      ],
+      "UpdateTime": "2023-06-30T17:30:00"
+    },
+    {
+      "RestaurantID": "Restaurant_376480000A_000075",
+      "RestaurantName": "吉祥樓餐廳",
+      "ServiceTimes": [
+        {
+          "Name": "營運時間",
+          "Description": "",
+          "ServiceDays": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          "StartTime": "10:30:00",
+          "EndTime": "18:30:00",
+          "EffectiveDate": null,
+          "ExpireDate": null
+        }
+      ],
+      "UpdateTime": "2023-06-30T17:30:00"
+    },
+    {
+      "RestaurantID": "Restaurant_376480000A_000076",
+      "RestaurantName": "竹山蕃薯爌窯農場",
+      "ServiceTimes": [
+        {
+          "Name": "營運時間",
+          "Description": "",
+          "ServiceDays": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          "StartTime": "08:00:00",
+          "EndTime": "17:00:00",
+          "EffectiveDate": null,
+          "ExpireDate": null
+        }
+      ],
+      "UpdateTime": "2023-06-30T17:30:00"
+    },
+    {
+      "RestaurantID": "Restaurant_376480000A_000077",
+      "RestaurantName": "朝霧渡假餐飲小棧",
+      "ServiceTimes": [
+        {
+          "Name": "營運時間",
+          "Description": "",
+          "ServiceDays": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          "StartTime": "08:00:00",
+          "EndTime": "19:00:00",
+          "EffectiveDate": null,
+          "ExpireDate": null
+        }
+      ],
+      "UpdateTime": "2023-06-30T17:30:00"
+    },
+    {
+      "RestaurantID": "Restaurant_376480000A_000078",
+      "RestaurantName": "阿森臭豆腐蚵仔麵線",
+      "ServiceTimes": [
+        {
+          "Name": "營運時間",
+          "Description": "",
+          "ServiceDays": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          "StartTime": "11:00:00",
+          "EndTime": "17:00:00",
+          "EffectiveDate": null,
+          "ExpireDate": null
+        }
+      ],
+      "UpdateTime": "2023-06-30T17:30:00"
+    },
+    {
+      "RestaurantID": "Restaurant_376480000A_000079",
+      "RestaurantName": "琳家元香蕉酥",
+      "ServiceTimes": [
+        {
+          "Name": "營運時間",
+          "Description": "",
+          "ServiceDays": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          "StartTime": "11:00:00",
+          "EndTime": "18:00:00",
+          "EffectiveDate": null,
+          "ExpireDate": null
+        }
+      ],
+      "UpdateTime": "2023-06-30T17:30:00"
+    },
+    {
+      "RestaurantID": "Restaurant_376480000A_000080",
+      "RestaurantName": "金竹味餐廳",
+      "ServiceTimes": [
+        {
+          "Name": "上午營運時間",
+          "Description": "",
+          "ServiceDays": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          "StartTime": "11:00:00",
+          "EndTime": "14:00:00",
+          "EffectiveDate": null,
+          "ExpireDate": null
+        },
+        {
+          "Name": "下午營運時間",
+          "Description": "",
+          "ServiceDays": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          "StartTime": "17:00:00",
+          "EndTime": "20:00:00",
+          "EffectiveDate": null,
+          "ExpireDate": null
+        }
+      ],
+      "UpdateTime": "2023-06-30T17:30:00"
+    },
+    {
+      "RestaurantID": "Restaurant_376480000A_000081",
+      "RestaurantName": "水里二坪枝仔冰",
+      "ServiceTimes": [
+        {
+          "Name": "營運時間",
+          "Description": "",
+          "ServiceDays": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          "StartTime": "09:00:00",
+          "EndTime": "18:00:00",
+          "EffectiveDate": null,
+          "ExpireDate": null
+        }
+      ],
+      "UpdateTime": "2023-06-30T17:30:00"
+    },
+    {
+      "RestaurantID": "Restaurant_376480000A_000082",
+      "RestaurantName": "大輅小館",
+      "ServiceTimes": [
+        {
+          "Name": "營運時間",
+          "Description": "",
+          "ServiceDays": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          "StartTime": "11:00:00",
+          "EndTime": "19:00:00",
+          "EffectiveDate": null,
+          "ExpireDate": null
+        }
+      ],
+      "UpdateTime": "2023-06-30T17:30:00"
+    },
+    {
+      "RestaurantID": "Restaurant_376480000A_000083",
+      "RestaurantName": "好口味番薯包特產行",
+      "ServiceTimes": [
+        {
+          "Name": "永久停止",
+          "Description": "",
+          "ServiceDays": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          "StartTime": "00:00:00",
+          "EndTime": "00:00:00",
+          "EffectiveDate": null,
+          "ExpireDate": null
+        }
+      ],
+      "UpdateTime": "2023-06-30T17:30:00"
+    },
+    {
+      "RestaurantID": "Restaurant_376480000A_000084",
+      "RestaurantName": "鄭記韭菜盒",
+      "ServiceTimes": [
+        {
+          "Name": "營運時間",
+          "Description": "",
+          "ServiceDays": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          "StartTime": "05:30:00",
+          "EndTime": "10:30:00",
+          "EffectiveDate": null,
+          "ExpireDate": null
+        }
+      ],
+      "UpdateTime": "2023-06-30T17:30:00"
+    },
+    {
+      "RestaurantID": "Restaurant_376480000A_000085",
+      "RestaurantName": "媽祖廟口米糕",
+      "ServiceTimes": [
+        {
+          "Name": "營運時間",
+          "Description": "",
+          "ServiceDays": [
+            "Monday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          "StartTime": "05:00:00",
+          "EndTime": "12:00:00",
+          "EffectiveDate": null,
+          "ExpireDate": null
+        },
+        {
+          "Name": "公休日",
+          "Description": "",
+          "ServiceDays": [
+            "Tuesday",
+            "Wednesday"
+          ],
+          "StartTime": "00:00:00",
+          "EndTime": "00:00:00",
+          "EffectiveDate": null,
+          "ExpireDate": null
+        }
+      ],
+      "UpdateTime": "2023-06-30T17:30:00"
+    },
+    {
+      "RestaurantID": "Restaurant_376480000A_000086",
+      "RestaurantName": "阿輝伯碳烤番薯",
+      "ServiceTimes": [
+        {
+          "Name": "營運時間",
+          "Description": "",
+          "ServiceDays": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          "StartTime": "11:00:00",
+          "EndTime": "19:00:00",
+          "EffectiveDate": null,
+          "ExpireDate": null
+        }
+      ],
+      "UpdateTime": "2023-06-30T17:30:00"
+    },
+    {
+      "RestaurantID": "Restaurant_376480000A_000087",
+      "RestaurantName": "北港香菇肉羹",
+      "ServiceTimes": [
+        {
+          "Name": "營運時間",
+          "Description": "",
+          "ServiceDays": [
+            "Monday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          "StartTime": "08:00:00",
+          "EndTime": "18:30:00",
+          "EffectiveDate": null,
+          "ExpireDate": null
+        },
+        {
+          "Name": "公休日",
+          "Description": "",
+          "ServiceDays": [
+            "Tuesday"
+          ],
+          "StartTime": "00:00:00",
+          "EndTime": "00:00:00",
+          "EffectiveDate": null,
+          "ExpireDate": null
+        }
+      ],
+      "UpdateTime": "2023-06-30T17:30:00"
+    },
+    {
+      "RestaurantID": "Restaurant_376480000A_000088",
+      "RestaurantName": "竹山一口香腸",
+      "ServiceTimes": [
+        {
+          "Name": "營運時間",
+          "Description": "",
+          "ServiceDays": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          "StartTime": "06:50:00",
+          "EndTime": "18:00:00",
+          "EffectiveDate": null,
+          "ExpireDate": null
+        }
+      ],
+      "UpdateTime": "2023-06-30T17:30:00"
+    },
+    {
+      "RestaurantID": "Restaurant_376480000A_000089",
+      "RestaurantName": "車站前蛋餅",
+      "ServiceTimes": [
+        {
+          "Name": "營運時間",
+          "Description": "",
+          "ServiceDays": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          "StartTime": "06:00:00",
+          "EndTime": "12:00:00",
+          "EffectiveDate": null,
+          "ExpireDate": null
+        }
+      ],
+      "UpdateTime": "2023-06-30T17:30:00"
+    },
+    {
+      "RestaurantID": "Restaurant_376480000A_000090",
+      "RestaurantName": "台灣小吃",
+      "ServiceTimes": [
+        {
+          "Name": "上午營運時間",
+          "Description": "",
+          "ServiceDays": [
+            "Monday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          "StartTime": "11:30:00",
+          "EndTime": "14:00:00",
+          "EffectiveDate": null,
+          "ExpireDate": null
+        },
+        {
+          "Name": "下午營運時間",
+          "Description": "",
+          "ServiceDays": [
+            "Monday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          "StartTime": "16:00:00",
+          "EndTime": "20:00:00",
+          "EffectiveDate": null,
+          "ExpireDate": null
+        },
+        {
+          "Name": "公休日",
+          "Description": "",
+          "ServiceDays": [
+            "Tuesday"
+          ],
+          "StartTime": "00:00:00",
+          "EndTime": "00:00:00",
+          "EffectiveDate": null,
+          "ExpireDate": null
+        }
+      ],
+      "UpdateTime": "2023-06-30T17:30:00"
+    }
+  ]
+}
